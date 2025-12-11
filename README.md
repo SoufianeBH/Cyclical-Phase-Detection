@@ -1,8 +1,8 @@
-# Robust Phase Detection in Cardiovascular Imaging through Cyclic Motion Estimation
+# CyclePhase: Robust Phase Detection in Cardiovascular Imaging through Cyclic Motion Estimation
 
 This repository contains the implementation for the MIDL 2026 submission:
 
-**"Robust phase detection in cardiovascular imaging through cyclic motion estimation"**
+**"CyclePhase: Robust phase detection in cardiovascular imaging through cyclic motion estimation"**
 *Soufiane Ben Haddou, Rudolf L. M. van Herten, Connie R. Bezzina, R. Nils Planken, Joost Daemen, Jolanda J. Wentzel, José P. Henriques, Ivana Išgum*
 
 ## Overview
@@ -96,7 +96,7 @@ If you use this code in your research, please cite:
 
 ```bibtex
 @misc{benhaddou2026robust,
-  title={Robust phase detection in cardiovascular imaging through cyclic motion estimation},
+  title={CyclePhase: Robust phase detection in cardiovascular imaging through cyclic motion estimation},
   author={Ben Haddou, Soufiane and van Herten, Rudolf L. M. and Bezzina, Connie R. and
           Planken, R. Nils and Daemen, Joost and Wentzel, Jolanda J. and
           Henriques, Jos{\'e} P. and I{\v{s}}gum, Ivana},
