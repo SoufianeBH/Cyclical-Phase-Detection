@@ -299,7 +299,7 @@ if __name__ == "__main__":
 
     print("\n--- DataModuleLite quick check ---")
     cfg = {
-        "root_dir": "/home/soufiane/code/models/cpd/Roel/Dataset009_IMPACTRaw",
+        "root_dir": "",
         "batch_size": 2,
         "sample_size": [192, 128, 96],
         "states": [0, 1],
