@@ -216,7 +216,7 @@ class H5DataModule:
 # -----------------------
 if __name__ == "__main__":
     cfg = {
-        "root_dir": "/home/soufiane/code/models/cpd/Roel/Dataset009_IMPACTRaw",
+        "root_dir": "",
         "batch_size": 2,
         "sample_size": [192, 128, 96],       # (H, W, T)
         "states": [0, 1],                     # first=raw, second=1st derivative
